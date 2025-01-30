@@ -1,0 +1,20 @@
+{
+  "name": "capstone-project-mentorz-hive",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PhoinixPinkee/Backend-MentorzHive.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PhoinixPinkee/Backend-MentorzHive/issues"
+  },
+  "homepage": "https://github.com/PhoinixPinkee/Backend-MentorzHive#readme"
+}
